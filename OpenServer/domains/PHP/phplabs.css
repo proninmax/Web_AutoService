@@ -1,0 +1,13 @@
+body
+{
+    background-color: blanchedalmond;
+    line-height: 1.5cm;
+}
+
+a
+{
+    font-size: 24pt;
+    color: seagreen;
+    background-color: thistle;
+    font-family: Arial, Helvetica, sans-serif;
+}

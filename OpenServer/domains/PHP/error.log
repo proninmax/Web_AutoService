@@ -1,0 +1,17 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: ext\\mysqli (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c.), ext\\php_mysqli.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c.)) in Unknown on line 0
+[Thu Nov 12 14:04:45.957285 2020] [mpm_winnt:notice] [pid 16932:tid 640] AH00455: Apache/2.4.46 (Win64) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 12 14:04:45.958285 2020] [mpm_winnt:notice] [pid 16932:tid 640] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Thu Nov 12 14:04:45.958285 2020] [core:notice] [pid 16932:tid 640] AH00094: Command line: 'C:\\Server\\bin\\Apache24\\bin\\httpd.exe -d C:/Server/bin/Apache24'
+[Thu Nov 12 14:04:45.960285 2020] [mpm_winnt:notice] [pid 16932:tid 640] AH00418: Parent: Created child process 10084
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: ext\\mysqli (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c.), ext\\php_mysqli.dll (\xd0\x9d\xd0\xb5 \xd0\xbd\xd0\xb0\xd0\xb9\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x83\xd0\xba\xd0\xb0\xd0\xb7\xd0\xb0\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd0\xbc\xd0\xbe\xd0\xb4\xd1\x83\xd0\xbb\xd1\x8c.)) in Unknown on line 0
+[Thu Nov 12 14:04:46.372378 2020] [mpm_winnt:notice] [pid 10084:tid 620] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 12 14:15:32.692983 2020] [mpm_winnt:notice] [pid 16932:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 12 14:15:34.724367 2020] [mpm_winnt:notice] [pid 10084:tid 620] AH00364: Child: All worker threads have exited.
+[Thu Nov 12 14:15:34.739993 2020] [mpm_winnt:notice] [pid 16932:tid 640] AH00430: Parent: Child process 10084 exited successfully.
+[Thu Nov 12 14:16:11.308034 2020] [mpm_winnt:notice] [pid 4248:tid 688] AH00455: Apache/2.4.46 (Win64) PHP/7.4.12 configured -- resuming normal operations
+[Thu Nov 12 14:16:11.308034 2020] [mpm_winnt:notice] [pid 4248:tid 688] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 11:45:39
+[Thu Nov 12 14:16:11.308034 2020] [core:notice] [pid 4248:tid 688] AH00094: Command line: 'C:\\Server\\bin\\Apache24\\bin\\httpd.exe -d C:/Server/bin/Apache24'
+[Thu Nov 12 14:16:11.308034 2020] [mpm_winnt:notice] [pid 4248:tid 688] AH00418: Parent: Created child process 5576
+[Thu Nov 12 14:16:11.714311 2020] [mpm_winnt:notice] [pid 5576:tid 580] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 12 15:11:33.793287 2020] [mpm_winnt:notice] [pid 4248:tid 688] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Nov 12 15:12:03.809065 2020] [mpm_winnt:notice] [pid 4248:tid 688] AH00431: Parent: Forcing termination of child process 5576
